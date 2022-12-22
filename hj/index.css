@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white
+}
+
+.column{
+    align-content: center;
+    text-align: center;
+}
+
+.score{
+    background-color: black;
+    width: 155px;
+    margin: 20px;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+    color: #F94F6D;
+    border-radius: 5px;
+}
+
+button{
+    background: pink;
+}
+
+.reset{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
